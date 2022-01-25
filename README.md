@@ -1,5 +1,8 @@
 
 # **제주인지도**
+![image](https://user-images.githubusercontent.com/69667560/150998744-e97da1ce-9bab-4491-bc2e-3f7ff2574b3f.png)
+![image](https://user-images.githubusercontent.com/69667560/150998778-8d114523-b53b-43d5-9e2d-8ea0b2821116.png)
+![image](https://user-images.githubusercontent.com/69667560/150998831-7e6960b1-ef41-4ac9-a451-d1e66a7e7092.png)
 
 **제주인지도**는 커뮤니티형 제주 관광지 혼잡도 확인 서비스 입니다.  
 도내 관광지와 해수욕장의 혼잡 정도를 알 수 있도록 하는 것이 주 목적입니다.  
@@ -34,14 +37,13 @@
 
 ## **Run on your machine**
 
-
- 1. git clone https://github.com/PilYeooong/jejuinjido
- 2. python3 -m venv **'Your virtual env'**
-	 - source **'Your virtual env'**/bin/activate (Mac OS)
- 3. pip install -r requirements.txt  
- 4. python manage.py migrate
- 5. python manage.py runserver
-
+1. git clone https://github.com/PilYeooong/jejuinjido
+2. python3 -m venv mvenv
+3. source mvenv/bin/activate (Mac OS)
+4. pip install --upgrade pip
+5. pip install -r requirements.txt
+6. python manage.py migrate
+7. python manage.py runserver
 
 
 ## **함께 해주신 분들**

@@ -53,8 +53,8 @@
 - [kjin41](https://github.com/kjin41)
 
 
-## **Contact**
-pilyeooong@gmail.com
+## **Awarded**
+![image](https://user-images.githubusercontent.com/69667560/156375348-69aee787-5948-4ec3-b0eb-69d249f84c59.png)
 
 
 
